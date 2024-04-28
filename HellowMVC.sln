@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellowMVC", "HellowMVC\HellowMVC.csproj", "{F8AE9F60-094D-4033-B0FC-6033197B73F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellowRazor", "HellowRazor\HellowRazor.csproj", "{9A21F457-5361-45E2-9574-E431A1761BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWebAPI", "HelloWebAPI\HelloWebAPI.csproj", "{8FA13E0A-D873-460D-B2BA-D35F262E8D10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellowWebEmpty", "HellowWebEmpty\HellowWebEmpty.csproj", "{C0334618-D997-4773-BDC3-C9A6B0E21772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellowBlazorSever", "HellowBlazorSever\HellowBlazorSever.csproj", "{37763DBF-3727-4BC4-B05E-97027627DD69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellowBlazorClient", "HellowBlazorClient\HellowBlazorClient.csproj", "{E81897DB-CD6B-4236-9C07-D18FCC1B3CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8AE9F60-094D-4033-B0FC-6033197B73F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AE9F60-094D-4033-B0FC-6033197B73F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AE9F60-094D-4033-B0FC-6033197B73F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AE9F60-094D-4033-B0FC-6033197B73F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A21F457-5361-45E2-9574-E431A1761BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A21F457-5361-45E2-9574-E431A1761BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A21F457-5361-45E2-9574-E431A1761BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A21F457-5361-45E2-9574-E431A1761BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA13E0A-D873-460D-B2BA-D35F262E8D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA13E0A-D873-460D-B2BA-D35F262E8D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA13E0A-D873-460D-B2BA-D35F262E8D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA13E0A-D873-460D-B2BA-D35F262E8D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0334618-D997-4773-BDC3-C9A6B0E21772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0334618-D997-4773-BDC3-C9A6B0E21772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0334618-D997-4773-BDC3-C9A6B0E21772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0334618-D997-4773-BDC3-C9A6B0E21772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37763DBF-3727-4BC4-B05E-97027627DD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37763DBF-3727-4BC4-B05E-97027627DD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37763DBF-3727-4BC4-B05E-97027627DD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37763DBF-3727-4BC4-B05E-97027627DD69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E81897DB-CD6B-4236-9C07-D18FCC1B3CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81897DB-CD6B-4236-9C07-D18FCC1B3CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81897DB-CD6B-4236-9C07-D18FCC1B3CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81897DB-CD6B-4236-9C07-D18FCC1B3CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1766208-0028-42EA-8B1C-CA14F8A9D181}
+	EndGlobalSection
+EndGlobal
