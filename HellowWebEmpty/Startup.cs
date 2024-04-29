@@ -14,9 +14,14 @@ namespace HellowWebEmpty
     // V (ºä)
     // C (ÄÁÆ®·Ñ·¯)
 
+    //Razor
     // M 
     // VC
     // M - V - VM
+
+    //API
+    // M
+    // C
 
     public class Startup
     {
@@ -24,7 +29,7 @@ namespace HellowWebEmpty
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddRazorPages();
+            services.AddControllers();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -39,7 +44,7 @@ namespace HellowWebEmpty
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+                endpoints.MapControllers();
             });
         }
     }

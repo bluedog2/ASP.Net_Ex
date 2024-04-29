@@ -21,13 +21,4 @@ C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\obj\Debug\netcoreapp3.1\Hel
 C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\obj\Debug\netcoreapp3.1\HellowWebEmpty.genruntimeconfig.cache
 C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\bin\Debug\netcoreapp3.1\HellowWebEmpty.Views.dll
 C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\bin\Debug\netcoreapp3.1\HellowWebEmpty.Views.pdb
-C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\obj\Debug\netcoreapp3.1\HellowWebEmpty.RazorAssemblyInfo.cache
-C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\obj\Debug\netcoreapp3.1\HellowWebEmpty.RazorAssemblyInfo.cs
-C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\obj\Debug\netcoreapp3.1\HellowWebEmpty.TagHelpers.input.cache
-C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\obj\Debug\netcoreapp3.1\HellowWebEmpty.TagHelpers.output.cache
-C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\obj\Debug\netcoreapp3.1\HellowWebEmpty.RazorCoreGenerate.cache
-C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\obj\Debug\netcoreapp3.1\HellowWebEmpty.RazorTargetAssemblyInfo.cs
-C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\obj\Debug\netcoreapp3.1\HellowWebEmpty.Views.pdb
 C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\obj\Debug\netcoreapp3.1\HellowWebEmpty.csproj.CopyComplete
-C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\Owner\source\repos\HellowMVC\HellowWebEmpty\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
